@@ -1,3 +1,7 @@
 This is a shared file.
 original text.
+
 Modified text in Feature-2.
+
+Original Text
+
